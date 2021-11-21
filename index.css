@@ -11,6 +11,11 @@
   pointer-events:none;
   z-index:1;
 }
+a {
+  text-decoration: none;
+  display: inline-block;
+  color: white;
+}
 .Frame{
   position:relative;
   z-index:2;
